@@ -11,7 +11,7 @@ public class Exercice {
         System.out.print(dogYears);
 
 
-        if (claudiaAge < 2) {
+        if (claudiaAge > 2) {
 
             System.out.println (dogYears);
 
